@@ -7,13 +7,13 @@ This is a simple example of a clustered Express server using the Node.js `cluste
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/ompathak2004/nodecluster.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repo
+    cd nodecluster
     ```
 
 3. Install the dependencies:
@@ -28,7 +28,7 @@ This is a simple example of a clustered Express server using the Node.js `cluste
     npm start
     ```
 
-5. Open your browser and visit `http://localhost:3000` to see the "Hello World!" message.
+5. Open your browser and visit `http://localhost:3000/fibonacci/8`.
 
 ## Configuration
 
