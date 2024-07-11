@@ -32,11 +32,11 @@ This is a simple example of a clustered Express server using the Node.js `cluste
 
 ## Configuration
 
-The server is configured to utilize all available CPU cores on your machine. If you want to limit cpu core usage you can hardcorde totalCPUs variable in the index.js file.
+The server is configured to utilize all available CPU cores on your machine. If you want to limit cpu core usage you can hardcode totalCPUs variable in the index.js file.
 
 ```javascript 
 
-## API Endpoints
+API Endpoints
 
 - `/` - Returns a "Hello World!" message.
 - `/fibonacci/:num` - Calculates the fibonacci of numbers from 0 to `num` and returns the result.
